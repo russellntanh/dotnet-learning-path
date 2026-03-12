@@ -306,7 +306,7 @@ csharp-learning-path/
 
 | Ngày | Trạng thái | Ngày hoàn thành | Ghi chú |
 |------|-----------|-----------------|---------|
-| 01 | ⬜ Chưa bắt đầu | | |
+| 01 | ✅ Hoàn thành | 2026-03-11 | Variable, Data type, string interpolation (nối chuỗi), ternary operator (toán tử 3 ngôi)|
 | 02 | ⬜ Chưa bắt đầu | | |
 | 03 | ⬜ Chưa bắt đầu | | |
 | 04 | ⬜ Chưa bắt đầu | | |
