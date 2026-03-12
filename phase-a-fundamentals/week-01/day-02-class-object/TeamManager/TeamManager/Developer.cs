@@ -10,7 +10,7 @@ namespace TeamManager
     {
         public string Name;
         public int Age;
-        public string Posision;
+        public string Position;
         public double YearOfExperience;
         public bool IsFullTime;
 
