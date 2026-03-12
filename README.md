@@ -308,7 +308,7 @@ csharp-learning-path/
 |------|-----------|-----------------|---------|
 | 01 | ✅ Hoàn thành | 2026-03-11 | Variable, Data type, string interpolation (nối chuỗi), ternary operator (toán tử 3 ngôi)|
 | 02 | ✅ Hoàn thành | 2026-03-12 | Class, Object, Method |
-| 03 | ⬜ Chưa bắt đầu | | |
+| 03 | ✅ Hoàn thành | 2026-03-12 | Field, Property, Constructor, Get/Set, Access Modifier |
 | 04 | ⬜ Chưa bắt đầu | | |
 | 05 | ⬜ Chưa bắt đầu | | |
 | 06 | ⬜ Chưa bắt đầu | | |
