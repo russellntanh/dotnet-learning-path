@@ -309,7 +309,7 @@ csharp-learning-path/
 | 01 | ✅ Hoàn thành | 2026-03-11 | Variable, Data type, string interpolation (nối chuỗi), ternary operator (toán tử 3 ngôi)| [Details](./notes/day-01-variables.md) |
 | 02 | ✅ Hoàn thành | 2026-03-12 | Class, Object, Method | [Details](./notes/day-02-class-object.md) |
 | 03 | ✅ Hoàn thành | 2026-03-12 | Field, Property, Constructor, Get/Set, Access Modifier | [Detail](./notes/day-03-constructor.md) |
-| 04 | ⬜ Chưa bắt đầu | | |
+| 04 | ✅ Hoàn thành | 2026-03-13 | List and Loop, Contains | [Detail](./notes/day-04-list-loop.md) |
 | 05 | ⬜ Chưa bắt đầu | | |
 | 06 | ⬜ Chưa bắt đầu | | |
 | 07 | ⬜ Chưa bắt đầu | | |
