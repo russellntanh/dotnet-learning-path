@@ -310,7 +310,7 @@ csharp-learning-path/
 | 02 | ✅ Hoàn thành | 2026-03-12 | Class, Object, Method | [Details](./notes/day-02-class-object.md) |
 | 03 | ✅ Hoàn thành | 2026-03-12 | Field, Property, Constructor, Get/Set, Access Modifier | [Detail](./notes/day-03-constructor.md) |
 | 04 | ✅ Hoàn thành | 2026-03-13 | List and Loop, Contains | [Detail](./notes/day-04-list-loop.md) |
-| 05 | ⬜ Chưa bắt đầu | | |
+| 05 | ✅ Hoàn thành | 2026-03-14 | Method and Return, Nullable | [Detail](./notes/day-05-methods.md) |
 | 06 | ⬜ Chưa bắt đầu | | |
 | 07 | ⬜ Chưa bắt đầu | | |
 | 08 | ⬜ Chưa bắt đầu | | |
