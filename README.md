@@ -312,7 +312,7 @@ csharp-learning-path/
 | 04 | ✅ Hoàn thành | 2026-03-13 | List and Loop, Contains | [Detail](./notes/day-04-list-loop.md) |
 | 05 | ✅ Hoàn thành | 2026-03-14 | Method and Return, Nullable | [Detail](./notes/day-05-methods.md) |
 | 06 | ✅ Hoàn thành | 2026-03-14 | Enum | [Detail](./notes/day-06-enum.md) |
-| 07 | ⬜ Chưa bắt đầu | | |
+| 07 | ✅ Hoàn thành | 2026-03-21 | Enum | [Detail](./notes/day-07-linq-basic.md) |
 | 08 | ⬜ Chưa bắt đầu | | |
 | 09 | ⬜ Chưa bắt đầu | | |
 | 10 | ⬜ Chưa bắt đầu | | |
