@@ -313,7 +313,7 @@ csharp-learning-path/
 | 05 | ✅ Hoàn thành | 2026-03-14 | Method and Return, Nullable | [Detail](./notes/day-05-methods.md) |
 | 06 | ✅ Hoàn thành | 2026-03-14 | Enum | [Detail](./notes/day-06-enum.md) |
 | 07 | ✅ Hoàn thành | 2026-03-21 | LINQ Basic: Where, OrderBy, Select, FirstOrDefault, Count, Average | [Detail](./notes/day-07-linq-basic.md) |
-| 08 | ⬜ Chưa bắt đầu | | |
+| 08 | ✅ Hoàn thành | 2026-03-22 | LINQ Advance: GroupBy, Sum, Min/Max, Dinstinct, Take/Skip | [Detail](./notes/day-08-linq-advance.md) |
 | 09 | ⬜ Chưa bắt đầu | | |
 | 10 | ⬜ Chưa bắt đầu | | |
 | 11 | ⬜ Chưa bắt đầu | | |
