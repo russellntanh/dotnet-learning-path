@@ -314,7 +314,7 @@ csharp-learning-path/
 | 06 | ✅ Hoàn thành | 2026-03-14 | Enum | [Detail](./notes/day-06-enum.md) |
 | 07 | ✅ Hoàn thành | 2026-03-21 | LINQ Basic: Where, OrderBy, Select, FirstOrDefault, Count, Average | [Detail](./notes/day-07-linq-basic.md) |
 | 08 | ✅ Hoàn thành | 2026-03-22 | LINQ Advance: GroupBy, Sum, Min/Max, Dinstinct, Take/Skip | [Detail](./notes/day-08-linq-advanced.md) |
-| 09 | ⬜ Chưa bắt đầu | | |
+| 09 | ✅ Hoàn thành | 2026-03-22 | Dictionary: Key/Value, TryGetValue, Reverse Mapping Pattern | [Detail](./notes/day-09-dictionary.md) |
 | 10 | ⬜ Chưa bắt đầu | | |
 | 11 | ⬜ Chưa bắt đầu | | |
 | 12 | ⬜ Chưa bắt đầu | | |
